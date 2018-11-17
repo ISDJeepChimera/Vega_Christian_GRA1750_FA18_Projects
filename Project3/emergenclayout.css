@@ -1,0 +1,59 @@
+div{
+	width:600px;
+	background-color: #FF6200;
+	margin: 0 auto;
+	padding: 0;
+}
+#Logo{
+	position: relative;
+	left: 30px;
+	margin: 0 auto;
+	padding: 0;
+}
+#SuperOrange{
+	width: 50%;
+	position: relative;
+	left: 150px;
+}
+#Citrus{
+	width: 50%;
+	height: 50%;
+	position: relative;
+	left: 150px;
+}
+#Kids{
+	width: 50%;
+	height: 50%;
+	position: relative;
+	left: 150px;
+}
+.titles{
+	color: white;
+	font-family: Verdana. Arial Black;
+	font-size: 1.5em;
+	text-align: center;
+}
+.subtext{
+	color: white;
+	font-family: Arial;
+	font-size: 1em;
+}
+em{
+	color: #42f480;
+	position: relative;
+	font-size: 1.5em;
+}
+a strong{
+	color: #ffe854;
+	font-family: Verdana, Arial;
+	font-size: 1.66em;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+}
+a em{
+	color: #FFFFFF;
+	font-family: Chaucer, Lucida Handwriting,;
+	font-size: 1.5em;
+	text-align: center;
+}

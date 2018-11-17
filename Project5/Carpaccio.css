@@ -1,0 +1,84 @@
+body{
+background-image: URL("http://s1.picswalls.com/wallpapers/2014/07/28/italy-wallpaper_120931710_120.jpg");
+}
+
+div{
+	width:1300px;
+	background-color: darkred;
+	background-image: url("https://wallpapertag.com/wallpaper/full/e/4/3/443485-large-textured-red-wallpaper-1920x1280.jpg");
+	color: antiquewhite;
+	font-size: 40px;
+	font-style:italic;
+    text-align: center;
+	margin: 0 auto;
+}
+
+div p{ 	width:1300px;
+	background-color: burlywood;
+	color: antiquewhite;
+	font-size: 70px;
+	font-style:italic;
+    text-align: center;
+	margin: 0 auto;
+}
+.titles{
+	color: white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	text-size: 1em;
+}
+
+.subtext{
+	color: white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    font-size: 20px;
+	text-align: center;
+}
+#Entrance{
+	height: 50%;
+	width: 50%;
+	position: relative;
+	left: 0px;
+}
+#LunchAppetizer{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
+#LunchFish{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
+#LunchPasta{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
+#DinnerAntipasti{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
+#DinnerFish{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
+#DinnerPasta{
+	height: 50%;
+	width: 60%;
+	position: relative;
+	left: 0px;
+	Right: 0px;
+}
