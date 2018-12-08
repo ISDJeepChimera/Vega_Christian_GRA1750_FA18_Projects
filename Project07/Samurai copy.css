@@ -1,0 +1,38 @@
+body{
+	background-image: url(http://regex.info/i/JF4_011463.jpg);
+}
+div{ 
+width:900px;
+background-color: #601300;
+margin: 0 auto;
+padding: 0;
+text-align: center;
+ }
+ #TLSposter{
+ 	position: relative;
+ 	height: 700px; 
+ 	left:18px;
+ 	top: 30px;
+ 	margin: 0 auto;
+ 	padding: 4.5;
+ }
+ title{ 
+ 	color: #efe08b;
+ 	position: relative;
+ 	font-size: 2em;
+  }
+ text{
+ 	color: #efe08b;
+ 	position: relative;
+ }
+ em{
+ 	color: #FFFFFF;
+ 	position: relative;
+ 	font-size:  1.5em;
+ }
+ p{
+ 	color: #efe08b;
+ 	position: relative;
+ 	font-size: 1.5em;
+ 	font-family: Garamond;
+ }
